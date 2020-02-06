@@ -9,6 +9,6 @@ The project will utilize Natural Language Processing (NLP) to cluster customers 
 
 # Problem Statement
 The objective of this project is to design and develop an intelligent customer support algorithm with sentimental analysis that will help a business serve their customers effectively while lowering support costs, and increasing customer loyalty. The below points define the key problems the project is trying to address throughout the project development life cycle:
-•	Gaining better insights and understand the factors that influence the customer opinions about a product and/or a service;
-•	Enhancing customer service processes by bringing customer feedback from multiple channels, into a single data lake to analyze;
-•	Eliminating the time required to analyze customer sentiment and provide decision makers with real time insight on customer analytics.
+- Gaining better insights and understand the factors that influence the customer opinions about a product and/or a service;
+- Enhancing customer service processes by bringing customer feedback from multiple channels, into a single data lake to analyze;
+- Eliminating the time required to analyze customer sentiment and provide decision makers with real time insight on customer analytics.

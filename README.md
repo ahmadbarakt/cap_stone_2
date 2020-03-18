@@ -12,3 +12,11 @@ The objective of this project is to design and develop an intelligent customer s
 - Gaining better insights and understand the factors that influence the customer opinions about a product and/or a service;
 - Enhancing customer service processes by bringing customer feedback from multiple channels, into a single data lake to analyze;
 - Eliminating the time required to analyze customer sentiment and provide decision makers with real time insight on customer analytics.
+
+# Project Methodology
+The below chart illustrates at high level the project methodology that will be utilized to deliver the project successfully:
+![Project Methodology](/images/logo.png)
+
+# Model Architecture
+The conceptual solution overview in Figure 3 gives visibility of the main users and the high level functional and technical components which make up the solution.
+![Model Architecture](/images/logo.png)

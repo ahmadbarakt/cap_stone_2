@@ -19,4 +19,4 @@ The below chart illustrates at high level the project methodology that will be u
 
 # Model Architecture
 The conceptual solution overview in Figure 3 gives visibility of the main users and the high level functional and technical components which make up the solution.
-![Model Architecture](/images/logo.png)
+![Model Architecture](https://github.com/ahmadbarakt/cap_stone_2/blob/master/images/Model%20Arc.png)

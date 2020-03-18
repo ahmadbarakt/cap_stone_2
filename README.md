@@ -15,7 +15,7 @@ The objective of this project is to design and develop an intelligent customer s
 
 # Project Methodology
 The below chart illustrates at high level the project methodology that will be utilized to deliver the project successfully:
-![Project Methodology](/images/logo.png)
+![Project Methodology](https://github.com/ahmadbarakt/cap_stone_2/blob/master/images/Project%20Methdology.png)
 
 # Model Architecture
 The conceptual solution overview in Figure 3 gives visibility of the main users and the high level functional and technical components which make up the solution.
